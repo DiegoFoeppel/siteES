@@ -1,0 +1,192 @@
+* {
+  margin: 0px;
+  padding: 0;
+}
+
+.sobre {
+  position: relative;
+}
+
+.texto-overlay {
+  /* z-index: 1;*/
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+}
+
+.blue-img {
+  width: 100%;
+  height: 30vh;
+}
+
+.navbar {
+  padding-left: 50px;
+}
+
+.nav-link {
+  font-size: larger;
+  color: #fff;
+}
+
+/* about */
+.img-area img {
+  width: 100% !important;
+}
+
+.about-text h2,
+.prod-text h2 {
+  font-size: 45px;
+  font-weight: 700;
+  color: orange;
+}
+
+.about-text h2 span {
+  color: red;
+}
+
+.about-area {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.about {
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  width: 60%;
+}
+
+.logo {
+  width: 50%;
+}
+/*
+.navbar-nav > li {
+  padding-left: 20px;
+  padding-right: 20px;
+} */
+
+/*
+h1 {
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Lato;
+  background-color: #456789;
+  height: 12vh;
+  text-decoration: none;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.nav-list li {
+  letter-spacing: 1px;
+  margin-left: 50px;
+  position: relative;
+  left: 150px;
+}
+
+.nav-list li a {
+  text-decoration: none;
+  color: white;
+}
+
+/*
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+}
+
+.teste {
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+/*
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Lato;
+  background-color: #646b72;
+  height: 12vh;
+  text-decoration: none;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.nav-list li {
+  letter-spacing: 1px;
+  margin-left: 50px;
+  position: relative;
+  left: 150px;
+}
+
+.nav-list li a {
+  text-decoration: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  size: 80vh;
+}
+
+.container {
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+*/
